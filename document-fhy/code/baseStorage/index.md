@@ -1,0 +1,1 @@
+# baseStorage: static-shop/js
